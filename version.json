@@ -1,7 +1,8 @@
 {
     "versionCode": 5,
     "versionName": "1.4",
-    "downloadUrl": "https://github.com/alebanfield/nibiru-updates/releases/download/v1.4/app-release.apk",
+    "downloadUrl": "",
     "mandatory": true,
-    "changelog": "- NOSECorrección de errores\n- Mejoras de rendimiento"
+    "changelog": "- Corrección de errores\n- Mejoras de rendimiento"
 }
+https://github.com/alebanfield/nibiru-updates/releases/download/v1.4/app-release.apk
