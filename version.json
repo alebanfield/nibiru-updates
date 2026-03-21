@@ -1,0 +1,7 @@
+{
+    "versionCode": 1,
+    "versionName": "1.1",
+    "downloadUrl": "https://github.com/TU_USUARIO/nibirutv-updates/releases/download/v1.1/app-release.apk",
+    "mandatory": true,
+    "changelog": "- Corrección de errores\n- Mejoras de rendimiento"
+}
