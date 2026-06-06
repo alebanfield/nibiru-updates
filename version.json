@@ -1,9 +1,9 @@
 {
-    "versionCode": 7,
-    "versionName": "1.6",
-    "downloadUrl": "https://github.com/alebanfield/nibiru-updates/releases/download/v1.6/app-release.apk",
+    "versionCode": 8,
+    "versionName": "1.7",
+    "downloadUrl": "https://github.com/alebanfield/nibiru-updates/releases/download/v1.7/app-release.apk",
     "mandatory": true,
-    "changelog": "- Corrección de errores\n- Se Soluciono error Apertura"
+    "changelog": "- MÁS CANALES PARA EL MUNDIAL\n- "
 }
 
 
