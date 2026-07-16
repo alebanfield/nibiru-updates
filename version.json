@@ -3,7 +3,7 @@
     "versionName": "1.6",
     "downloadUrl": "https://github.com/alebanfield/nibiru-updates/releases/download/v1.6/app-release.apk",
     "mandatory": true,
-    "changelog": "- Nueva y mejor interfaz\n        -Ahora podés hacer zapping con las flechas arriba/abajo del control\n        -Agregado botón de cerrar sesión en Ajustes para usar la app en otro  dispositivo (límite de 2)     \n        -No cierres la app al descargar la guía de TV o no se mostrará"
+    "changelog": "- Nueva y mejor interfaz\n        - Ahora podés hacer zapping con las flechas arriba/abajo del control\n        - Agregado botón de cerrar sesión en Ajustes para usar la app en otro    dispositivo (límite de 2)     \n        - No cierres la app al descargar la guía de TV o no se mostrará"
 }
 
 
