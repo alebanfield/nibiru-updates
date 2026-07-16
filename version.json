@@ -3,7 +3,7 @@
     "versionName": "2.0",
     "downloadUrl": "",
     "mandatory": true,
-    "changelog": "- MEJORAS DE RENDIMIENTOO\n- "
+    "changelog": "- Ahora podés hacer zapping con las flechas arriba/abajo del control\n- Agregado botón de cerrar sesión en Ajustes para usar la app en otro dispositivo (límite de 2)\n- No cierres la app mientras se descarga la guía de TV o no se mostrará"
 }
 
 https://github.com/alebanfield/nibiru-updates/releases/download/v2.0/app-release.apk
