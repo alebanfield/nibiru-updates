@@ -1,9 +1,9 @@
 {
-    "versionCode": 12,
-    "versionName": "2.1",
-    "downloadUrl": "",
+    "versionCode": 16,
+    "versionName": "2.5",
+    "downloadUrl": "https://github.com/alebanfield/nibiru-updates/releases/download/v2.5/app-release.apk",
     "mandatory": true,
-    "changelog": "- MEJORAS EN RENDIMIENTO\n        - MEJORAS EN EVENTOS"
+    "changelog": "- 🎬 NUEVO: PELICULAS Y SERIES\n        - ⭐ MEJOR RENDIMIENTO"
 }
-https://github.com/alebanfield/nibiru-updates/releases/download/v2.1/app-release.apk
+
 
